@@ -1,0 +1,6 @@
+
+
+CREATE DATABASE Metadata_20HTTT2_BI_08;
+
+
+CREATE DATABASE SuperMarket_Sale;
